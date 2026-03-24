@@ -1,0 +1,13 @@
+{
+  "name": "RSAC 2026 Briefings",
+  "description": "Daily Intelligence Reports — RSA Conference 2026, San Francisco",
+  "sidebar": [
+    {
+      "group": "Reports",
+      "pages": [
+        { "title": "Overview", "href": "/" },
+        { "title": "Day 1 — March 23", "href": "/RSAC-2026-Day1-Report" }
+      ]
+    }
+  ]
+}
