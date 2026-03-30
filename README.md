@@ -1,5 +1,7 @@
 # RSAC 2026 Briefings
 
+[![Follow on X](https://img.shields.io/badge/follow-%40boschzilla-black.svg?logo=x)](https://x.com/boschzilla)
+
 Daily intelligence reports from RSA Conference 2026, Moscone Center, San Francisco — March 23–26, 2026.
 
 ## Reports
